@@ -37,4 +37,5 @@ While working on a large project, it's a good idea to spend sometime planning. S
     - Each stage can have certain features 
     - Every stage builds upon the features from the previous stage(s). 
 - [Trello](https://trello.com/) can be a brilliant tool to work with for this. You can divide feature by [Day](https://trello.com/b/kZsVVrc8/front-product-roadmap), [progress](https://trello.com/b/0xzkRjTH/scrum-project-management-board) etc. Figure what works for your team
-- Decide how much time you would like to allocate to each stage. A [Gantt chart](https://en.wikipedia.org/wiki/Gantt_chart) is a useful tool for keeping track of these time frames. It shows how long each task should take, but it also shows which tasks can be done at the same time and which must be done sequentially.
+- Decide how much time you would like to allocate to each stage. A [Gantt chart](https://en.wikipedia.org/wiki/Gantt_chart) is a useful tool for keeping track of these time frames. It shows how long each task should take, but it also shows which tasks can be done at the same time and which must be done sequentially..
+- - Keep the project on track. **Review, revise and reallocate**. Run through these three “Rs” on an ongoing basis. 
