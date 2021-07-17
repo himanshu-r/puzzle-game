@@ -436,6 +436,11 @@ function gameOver(){
   document.onmousemove = null;
   document.onmouseup = null;
   initPuzzle();
+ 
+ 
 }
+
+
+JUST for fun 
 
 
